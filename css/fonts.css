@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'American Captain Cyrillic';
+	src: url('../fonts/american_captain_cyrillic.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/american_captain_cyrillic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/american_captain_cyrillic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/american_captain_cyrillic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/american_captain_cyrillic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/american_captain_cyrillic.svg#american_captain_cyrillic') format('svg'); /* Chrome < 4, Legacy iOS */
+}
